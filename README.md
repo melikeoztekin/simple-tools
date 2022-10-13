@@ -9,3 +9,5 @@
   - [404notfound](https://github.com/melikeoztekin/simple-tools/tree/main/notfound/404notfound)
 * form
   - [transparent-login-form](https://github.com/melikeoztekin/simple-tools/tree/main/form/transparent-login-form)
+* card
+  - [product-card](https://github.com/melikeoztekin/simple-tools/tree/main/card/product-card)
